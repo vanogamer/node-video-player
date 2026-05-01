@@ -1,0 +1,21 @@
+{
+  "name": "folderflix",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local Node.js video player with folder picker, playlist restore, resume playback, deletion support, and player-log history.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "local-video-player",
+    "folder-picker",
+    "playlist",
+    "nodejs",
+    "video-player",
+    "folderflix"
+  ],
+  "license": "MIT"
+}
